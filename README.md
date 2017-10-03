@@ -1,5 +1,5 @@
 # CAN_J1939
-In-progress CAN Library
+In-progress CAN Library. It is intended to run as a FreeRTOS task with RX/TX handled with interrupts.
 
 TBD:
 
